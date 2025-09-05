@@ -1,7 +1,7 @@
-Nome do Projeto
-O Julia's Burguer é uma página pedido online.
+Nome do Projeto:
+🌟 Julia's Burguer 🌟
 
-🚀 Tecnologias
+🚀 Tecnologias:
 
 HTML: Para a estrutura da página.
 
@@ -9,12 +9,12 @@ CSS: Para a estilização e design.
 
 JavaScript (React): Para a lógica e interatividade do componente.
 
-✨ Funcionalidades
+✨ Funcionalidades:
 
 Este projeto tem como objetivo no resultado final oferecer ao cliente um sistema de compras onde o usuario seleciona o seu pedido, adiciona ao carrinho 
 é gerado uma comanda que é enviada para o whatsapp da burgueria.
 
-📁 Estrutura de Arquivos
+📁 Estrutura de Arquivos:
 
 /burguerapp
 ├── /public
@@ -27,10 +27,10 @@ Este projeto tem como objetivo no resultado final oferecer ao cliente um sistema
 ├── package.json
 └── README.md
 
-🛠️ Como Executar o Projeto
+🛠️ Como Executar o Projeto:
 Comando: npm start no terminal do projeto
 
-Pré-requisitos
+✅ Pré-requisitos:
 Node.js instalado
 
 NPM ou Yarn
@@ -45,7 +45,7 @@ cd burguerapp
 Instale as dependências:
 npm install
 
-Rodando a Aplicação
+💿 Rodando a Aplicação:
 Inicie o servidor de desenvolvimento:
 npm start
 
